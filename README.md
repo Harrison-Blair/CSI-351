@@ -1,6 +1,6 @@
 # CSI-351 - Software Testing
 
-This repository was created to store the work I am doing in my Software Testing class over my summer semester. It includes a collection of assignments, discussions, and in-class assignments completed over the course of the semester.
+This repository was created to store the work I am doing in my Software Testing class over my summer semester. It includes a collection of assignments, discussions, and in-class assignments completed over the course of the semester. This class uses Java with JUnit to write unit tests.
 
 ## Course Information
 
